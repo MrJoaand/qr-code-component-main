@@ -110,3 +110,13 @@ p {
 	margin-bottom: 2.4rem;
 	text-align: center;
 }
+
+/* ******************************* */
+/* MEDIA-QUERIES*/
+/* ******************************* */
+
+@media (max-width: 600px) {
+	.container {
+		max-width: 600px;
+	}
+}
