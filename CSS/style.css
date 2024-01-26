@@ -88,6 +88,7 @@ p {
 	background-color: hsl(0, 0%, 100%);
 	padding: 1.4rem;
 	border-radius: 1.4rem;
+	box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.1);
 }
 
 .qr-img img {
